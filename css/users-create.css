@@ -1,0 +1,30 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.container {
+    max-width: 960px;
+}
+
+.card_finger{
+    width: 18rem;
+    margin: 0 auto;
+}
+
+#sensor_image{
+    width: 165px ;
+    margin: 10px auto;
+}
+.title-card-finger{
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
